@@ -15,6 +15,5 @@
         components: {
             AppHeader
         }
-
     };
 </script>
